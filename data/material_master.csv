@@ -1,0 +1,8 @@
+MaterialNo,Description,MaterialType,BaseUnit,StdCostPerUnit
+MAT-1001,Steel Bracket A,FERT,PC,2.5
+MAT-1002,Steel Bracket B,FERT,PC,3.1
+MAT-1003,Motor Housing,FERT,PC,12.4
+MAT-1004,Control Panel,FERT,PC,18.9
+MAT-1005,Gearbox Assembly,FERT,PC,45.0
+MAT-2001,Raw Steel Sheet,ROH,KG,1.2
+MAT-2002,Circuit Board,ROH,PC,6.7
