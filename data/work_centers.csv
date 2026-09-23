@@ -1,0 +1,7 @@
+WorkCenter,Description,Category,ShiftCapacityHrs
+WC-100,Cutting Line 1,Cutting,8.0
+WC-110,Cutting Line 2,Cutting,8.0
+WC-200,Assembly Line A,Assembly,8.0
+WC-210,Assembly Line B,Assembly,8.0
+WC-300,Quality Inspection,QA,8.0
+WC-400,Packaging,Packaging,8.0
